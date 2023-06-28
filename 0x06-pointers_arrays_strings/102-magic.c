@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	int n;
+	int;
 	int a[5];
 	int *p;
 
